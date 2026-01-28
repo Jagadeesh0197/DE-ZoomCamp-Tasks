@@ -6,7 +6,7 @@ This repository contains solutions to the Module 1 tasks of the Data Engineering
 
 ---
 
-## Setup
+## Module 1
 
 ### Q1: Docker & pip Version
 To explore the Python environment used in the course:
